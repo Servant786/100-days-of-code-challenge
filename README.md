@@ -31,3 +31,20 @@ It's beautiful and scary.
 **Thoughts:** I added my thoughts in the above but I am on the GitHub Profile App. Stuck with an error I received and have been trying to fix this for about 30 minutes.
 
 **Link to work:** Not sure how to link the project yet, will check that out tomorrow. Thanks Github for this and Kallaway for starting this 100DaysOFCoding. I am really enjoying this.
+
+### Day 4: Tuesday, 22 December 2020 at 10:24pm South African Time
+
+**Today's Progress**: Day 4: Just completed the Github Portfolio Project by Florin Pop. I still have a few tweaks to complete but it was good. I am also on 96% on my JVS on FreeCodeCamp Progress. 
+
+**Thoughts:** Its not easy to follow an expert like Florin and learn. Although you can however if you are beginnner you need understand the concepts before deep diving into the big stuff. Feels like you driving in reverse while everybody else is going forward. Not doing much justice with FreeCodeCamp, just looking to complete the course and move along. Hate that feeling. Nothing wrong with the content. Decided to go into CodeCademy and check out if I can refresh myself with Javascript. One day forward 2 steps back.
+
+**Link to work:** Not sure how to link the project yet. Thanks Github for this and Kallaway for starting this 100DaysOFCoding. I am really enjoying this.
+
+### Day 5: Wednesday, 23 December 2020 at 10:16pm South African Time
+
+**Today's Progress**: Day 5: Completed Basic JavaScript Course on FreeCodeCamp. Now on to ES6 Challenges.......
+
+**Thoughts:** Onward to the next level, feels like I'm moving rather slowly, but thank god I have this Day to Day progress to keep me level headed. I'm sure after 100 days I'll be looking back at some of these comments and saying to myself what in the world was I thinking when I wrote that.
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
