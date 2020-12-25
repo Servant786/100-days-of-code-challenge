@@ -48,3 +48,10 @@ It's beautiful and scary.
 
 **Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
 
+### Day 6:  25 December 2020 at 09:40pm South African Time
+
+**Today's Progress**: Day 6: Completed a Drawing App using HTML, CSS and Javascript.
+
+**Thoughts:** Learning so much from the Tutorial 
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
