@@ -55,3 +55,11 @@ It's beautiful and scary.
 **Thoughts:** Learning so much from the Tutorial 
 
 **Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+### Day 7:  26 December 2020 at 10:00pm South African Time
+
+**Today's Progress**: Day 7: Started 100 Days of Code - The Complete Python Pro Bootcamp 2021, just about finished with Day 1. Its looking good so far, a bit confusing but I just need to get to grips with a few items.
+
+**Thoughts:** Can't wait to get indepth in Python. 
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
