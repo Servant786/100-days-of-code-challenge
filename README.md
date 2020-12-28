@@ -63,3 +63,19 @@ It's beautiful and scary.
 **Thoughts:** Can't wait to get indepth in Python. 
 
 **Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+### Day 8:  27 December 2020 at 11:24pm South African Time
+
+**Today's Progress**: Day 8: Started 100 Days of Code - The Complete Python Pro Bootcamp 2021, Started with Day 2, got about half way through the content. 
+
+**Thoughts:** Really excited about the course and the training. 
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+### Day 9:  28 December 2020 at 11:55pm South African Time
+
+**Today's Progress**: Day 9 of 100DaysOfCode: Just completed Day 2 of the 100DaysOfCode with Python, damn didn't realise the time 11:52pm and I'm still awake. I have to now force myself to sleepCrying face. But I was having loads of fun coding. Can't believe I said that. Thanks @angelayu
+
+**Thoughts:** Thanks @angelayu
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
