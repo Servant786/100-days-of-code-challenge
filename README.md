@@ -79,3 +79,10 @@ It's beautiful and scary.
 **Thoughts:** Thanks @angelayu
 
 **Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+### Day 10:  29 December 2020 at 10:57pm South African Time
+
+**Today's Progress**: Day 10 of 100DaysOfCode: I'm on Day 3 and just started with Conditional Operators and If else statements. Now I have to say I watched many tuts on this and Angela Yu makes this look like childs play: |Where were you all my Life:
+
+**Thoughts:** I can only think how useful this course is and how easy Angela Yu makes the is course.
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
