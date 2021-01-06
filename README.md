@@ -86,3 +86,27 @@ It's beautiful and scary.
 **Thoughts:** I can only think how useful this course is and how easy Angela Yu makes the is course.
 
 **Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+**Today's Progress**: Day 11 of 100DaysOfCode: Completed Day 3 of 100DaysOfCode with Python
+
+**Thoughts:** Its getting difficult but challenging.
+
+**Today's Progress**: Day 12 of 100DaysOfCode: Didnt do any programming for the day.
+
+**Thoughts:** COVID is rife in South Africa, scary stuff.
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+**Today's Progress**: Day 13 of 100DaysOfCode: Stated with Day 4 Randomization and Python Lists
+
+**Thoughts:** Enjoying making the Coin Toss Game. Very simple and basic.
+
+**Link to work:** Not sure how to link the project yet. not going to lie either haven't gotten around to even trying.
+
+**Today's Progress**: Day 14 of 100DaysOfCode: Still Day 4 Randomization and Python Lists
+
+**Thoughts:** Next Project Who will pay the bill?
+
+**Link to work:** 
+
+
